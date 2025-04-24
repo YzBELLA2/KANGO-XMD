@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "KANGO-XMD",
+    "bot-name": "KANGO-XMD | eranda sampath ",
     "description": "Kango XMD v2 made with love from creator in Ghana (Hector Manuel)",
     "logo": "https://files.catbox.moe/vikf6c.jpg",
     "keywords": ["bot"],
@@ -15,12 +15,12 @@
         
         },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "94740428879, starting with country code E.g 233xxxxxxxx",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "eranda sampath",
       "value": "",
       "required": true
     },
